@@ -1,0 +1,3 @@
+# Git and GitHub Tutorial
+
+Practicing the tutorial content with this repository.
